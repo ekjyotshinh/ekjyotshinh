@@ -1,10 +1,10 @@
 # Hi, I'm Ekjyot Singh Shinh 👋
 
-I am a passionate computer science student at California State University, Sacramento, with a strong interest in software engineering, algorithms, and deep learning. I am actively seeking new opportunities to contribute to the tech field and continuously grow as a developer.
+I’m a Software Developer and Computer Science graduate from California State University, Sacramento (GPA 3.92) with experience building production-grade backend systems, distributed services, and full-stack applications. I’m passionate about system design, high-performance computing, and building scalable software.
 
-Currently, I am working on **ChemTrack**, a mobile app designed to help educational institutions manage their chemical inventories, ensuring safety and efficiency. Additionally, I’m diving into deep learning with PyTorch and exploring parallel computing using CUDA to optimize complex processes.
+I’m currently working as a Software Developer at the Office of Water Programs, where I build secure backend services, payment systems, microservices, and distributed components used across multiple production applications.
 
-In my role as a **Software Developer Intern** at the **Office of Water Programs**, I've worked on engineering secure systems and optimizing backend processes to enhance user experience. I’m also conducting research on parallel algorithms for the Sequential Ordering Problem (SOP) solver, aiming to increase the speed and efficiency of algorithms.
+Alongside my work, I conduct research in parallel Branch & Bound algorithms for the Sequential Ordering Problem (SOP), improving performance through load balancing and LKH-based optimization techniques.
 
 Feel free to explore my repositories, or reach out to me if you’re interested in collaborating, discussing tech, or just having a chat!
 
@@ -18,16 +18,15 @@ Feel free to explore my repositories, or reach out to me if you’re interested 
 
 ## Technical Skills 🖥
 
-- **Languages**: Java, Python, C++, JavaScript, PHP, Go, TypeScript
-- **Web Development**: React, React Native, Node.js, Docker, Jest
-- **Deep Learning**: PyTorch
-- **Parallel Computing**: CUDA
+- **Languages**: Go, Python, JavaScript, TypeScript, PHP, Java, C++, CUDA
+- **Backend**: gRPC, REST APIs, Redis, Gin, Node.js
+- **Cloud & Storage**: AWS, Google Cloud, S3, GCS
 - **Databases**: MySQL, Firestore
-- **Cloud Platforms**: Google Cloud
-
+- **DevOps & Tools**: Docker, GitHub Actions, Postman, Swagger, Jira
+  
 ---
 
-## Contact Information 📞
+## Contact Information
 
 - **Email**: [ekjyotshinh@gmail.com](mailto:ekjyotshinh@gmail.com)
 - **LinkedIn**: [linkedin.com/in/ekjyotshinh](https://linkedin.com/in/ekjyotshinh)
