@@ -10,11 +10,6 @@ Feel free to explore my repositories, or reach out to me if you’re interested 
 
 ---
 
-## GitHub Statistics 📈
-
-![Ekjyot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekjyotshinh&show_icons=true&theme=radical&rank_icon=github&hide=issues&hide_title=true)
-
----
 
 ## Technical Skills 🖥
 
