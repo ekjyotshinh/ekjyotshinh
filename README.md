@@ -23,7 +23,6 @@ Feel free to explore my repositories, or reach out to me if you’re interested 
 
 ## Contact Information
 
-- **Email**: [ekjyotshinh@gmail.com](mailto:ekjyotshinh@gmail.com)
 - **LinkedIn**: [linkedin.com/in/ekjyotshinh](https://linkedin.com/in/ekjyotshinh)
 - **Portfolio**: [ekjyotshinh.github.io/portfolio/](https://ekjyotshinh.github.io/portfolio/)
 
